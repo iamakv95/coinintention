@@ -93,6 +93,9 @@
       font-size: 30px;
       color: var(--text-color);
       display: none;
+      position: fixed;
+      right: 10px;
+      top: 15px;
   }
 
   /* =====hero section====== */
